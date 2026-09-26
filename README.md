@@ -33,6 +33,3 @@ La PTQ naïve dégrade fortement la précision sur MobileNetV2, un phénomène d
 
 - `greenova_notebook.ipynb` — notebook complet : chargement des données EuroSAT, fine-tuning MobileNetV2, mécanisme multi-sorties Greenova, simulateur d'énergie orbitale, quantification PTQ vs QAT
 
-## Équipe
-
-Track 1, Problem 2 — IASTAM 6.0 Technical Challenge, en partenariat avec TUNSA.
